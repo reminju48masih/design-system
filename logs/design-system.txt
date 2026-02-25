@@ -59,3 +59,4 @@
 05:10:14 | report_name=2179
 05:10:16 | sbom_hash=9c7cfaf3ed23f0d3f5c3ce36278e8e7487c4d2d8c59d2ac8a50cb403b15e2774
 06:10:12 | flag=504210
+06:10:15 | report_name=8972
