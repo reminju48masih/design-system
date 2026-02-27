@@ -236,3 +236,4 @@
 17:10:15 | report_name=1574
 17:10:18 | sbom_hash=fb795794a0d632c4ae58c8e6add1aaa09ffcd23b07d0067b75d8f60a062b8b06
 18:10:11 | flag=367129
+18:10:13 | report_name=2707
